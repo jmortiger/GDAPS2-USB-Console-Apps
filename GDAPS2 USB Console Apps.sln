@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE 1 Linked Lists", "PE 1 Linked Lists\PE 1 Linked Lists.csproj", "{A90CEC90-EC89-4814-A0A5-795CC969D065}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE 2 Linked List Pt 2", "PE 2 Linked List Boogaloo\PE 2 Linked List Pt 2.csproj", "{67D296A4-74AB-4BAD-B9D3-8B4661F16569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A90CEC90-EC89-4814-A0A5-795CC969D065}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A90CEC90-EC89-4814-A0A5-795CC969D065}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A90CEC90-EC89-4814-A0A5-795CC969D065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D296A4-74AB-4BAD-B9D3-8B4661F16569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D296A4-74AB-4BAD-B9D3-8B4661F16569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D296A4-74AB-4BAD-B9D3-8B4661F16569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D296A4-74AB-4BAD-B9D3-8B4661F16569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
